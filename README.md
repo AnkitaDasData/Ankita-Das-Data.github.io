@@ -2,7 +2,7 @@
 
 *Informational website - emphasis is on function (structured text with simple formatting, links, images) and not form (intricate page design)*
 
-**What is this page:** This page is showing [GitHub Pages](https://pages.github.com), 
+
 
 
 Hi, I’m @Ankita-Das-Data
@@ -67,6 +67,7 @@ AnkitaDasData/AnkitaDasData is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # Ankita-Das-Data.github.io
+**What is this page:** This page is showing [GitHub Pages](https://pages.github.com), 
 ![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
 
 Creative Commons License 
