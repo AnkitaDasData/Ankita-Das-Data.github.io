@@ -9,7 +9,8 @@ Hi, I’m @Ankita-Das-Data
 I am building a profile to showcase my experience
 I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
-○   Tableau Public -        https://public.tableau.com/app/profile/ankita2033/vizzes
+
+○   Tableau Public -        
 
 ○   Power BI -              
                             
