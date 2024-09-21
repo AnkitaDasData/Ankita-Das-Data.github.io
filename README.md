@@ -1,5 +1,9 @@
 # Welcome to this page
 
+**What is this page:** This page is showing [GitHub Pages](https://pages.github.com), *Informational website* is an informal term meaning that the emphasis is on
+function (structured text with simple formatting, links, images) and not form (intricate page design). It goes step by step from the very beginning
+and assumes very little knowledge on your part.
+
 Hi, I’m @Ankita-Das-Data
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+building+a+profile+to+showcase;Please+have+patience)](https://git.io/typing-svg)
