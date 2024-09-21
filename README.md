@@ -1,6 +1,6 @@
 # Welcome to this page
 
-*Informational website - meaning that the emphasis is on function (structured text with simple formatting, links, images) and not form (intricate page design)*
+*Informational website - emphasis is on function (structured text with simple formatting, links, images) and not form (intricate page design)*
 
 **What is this page:** This page is showing [GitHub Pages](https://pages.github.com), 
 
