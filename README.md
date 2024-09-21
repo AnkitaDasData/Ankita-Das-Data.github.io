@@ -1,5 +1,3 @@
-# Ankita-Das-Data.github.io
-
 Hi, I’m @Ankita-Das-Data
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+building+a+profile+to+showcase;Please+have+patience)](https://git.io/typing-svg)
@@ -61,6 +59,7 @@ ORDER BY last_name ASC;
 AnkitaDasData/AnkitaDasData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Ankita-Das-Data.github.io
 ![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
 
 Creative Commons License 
