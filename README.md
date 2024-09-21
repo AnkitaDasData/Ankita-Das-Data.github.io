@@ -62,6 +62,7 @@ AnkitaDasData/AnkitaDasData is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 Creative Commons License ![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
+
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
