@@ -3,7 +3,7 @@
 *Informational website - emphasis is on function (structured text with simple formatting, links, images) and not form (intricate page design)*
 
 
-
+# The public page
 
 Hi, I’m @Ankita-Das-Data
 
