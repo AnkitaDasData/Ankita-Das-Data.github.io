@@ -13,33 +13,6 @@ Hi, I’m @Ankita-Das-Data
 
 I am building a profile to showcase my experience
 I am also trying to track my skill progress
------------------------------------------------------------------------------------
-
-○   Tableau Public -        
-
-○   Power BI -              
-                            
-○   Excel or PowerPoint -    
-
-○   SQL
-
-○   Alteryx
-
-○   Knime
-
-○   Python
-
-○   Google Cloud Platform - Google Colab - 
-
-○   AWS
-
-○   Azure
-
-○   SAS EG
-
-○   Snowflake
-
-○   DevOps
 
 Here is a program to parse ``"Hello, World!"`` (or any greeting of the form
 ``"salutation, addressee!"``):
